@@ -1,8 +1,14 @@
-diák (m) | student
-diák (f) | studentka
-orvos (m) | lekarz
-orvos (f) | lekarka
-tanár (m) | nauczyciel
-tanár (f) | nauczycielka
+diák (f) | student
+diák (n) | studentka
+orvos (f) | lekarz
+orvos (n) | lekarka
+tanár (f) | nauczyciel
+tanár (n) | nauczycielka
 férj | mąż
 feleség | żona
+művész | artysta
+művésznő | artystka
+gyerek | dziecko
+nő | kobieta
+férfi | mężczyzna
+
